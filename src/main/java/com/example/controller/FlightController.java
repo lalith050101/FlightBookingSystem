@@ -47,7 +47,7 @@ public class FlightController {
 		 String code = request.getParameter("code");
 	     Flight flight = flightRepository.findByCode(Long.parseLong(code)).orElse(null);
 	     model.addObject("flight", flight);
-	     model.addObject("msg","Edit details of new Flight");
+	     model.addObject("msg","Edit details of Flight");
 	     model.setViewName("editFlightForm");
 	     return model;
 	 }
