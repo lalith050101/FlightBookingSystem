@@ -144,7 +144,7 @@
     	
     		
             <a class="headerlink" href="/newFlightSchedule">NEW FLIGHT</a>
-            <a id="mainlink" href="/">FLIGHT BOOKING SYSTEM</a>
+            <a id="mainlink" href="/flights">FLIGHT BOOKING SYSTEM</a>
             
     	
     	</div>
