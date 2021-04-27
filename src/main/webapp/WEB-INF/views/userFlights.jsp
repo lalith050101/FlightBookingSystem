@@ -146,7 +146,7 @@
     	
     		
             
-            <a id="mainlink" href="/">FLIGHT BOOKING SYSTEM</a>
+            <a id="mainlink" href="/userFlights">FLIGHT BOOKING SYSTEM</a>
 			<a class="headerlink" href="/myFlights">MY FLIGHTS</a>
     	
     	</div>
